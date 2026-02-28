@@ -6,7 +6,7 @@ public class Aula03TiposPrimitivos {
         //Declaração Variáveis
         String nome="Vitor";
         double salario=900.50;
-        String endereco="Rua Carlos Lang, 255";
+        String endereco="Rua 2, 123";
         String data="29/01/2025";
         String relatorio="Eu "+nome+ ",morando no endereço: "+endereco+",\nconfirmo que recebi o salário de:" +salario+",na data:"+data;
 

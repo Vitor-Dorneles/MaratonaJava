@@ -1,11 +1,13 @@
-Repositório de aprofundamento em Java e Ecossistema JVM. Utilizando o curso no youtube Maratona Java.
+# ☕ Java & JVM Ecosystem: Maratona Java
+
+Este repositório é dedicado ao aprofundamento na linguagem Java e em todo o ecossistema da Virtual Machine (JVM). Os estudos são baseados na **Maratona Java (DevDojo)**, focando em boas práticas, performance e recursos modernos da linguagem.
+
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagem:** Java (JDK 17 ou superior)
+- **Gerenciamento:** Maven / Gradle
+- **IDE:** IntelliJ IDEA / VS Code
 
 
-Tópicos Abordados
-POO: Abstração, Herança, Encapsulamento e Polimorfismo.
 
-Collections API: Uso avançado de Lists, Sets e Maps.
 
-Java 8+: Lambdas, Streams e Optional.
 
-Tratamento de Exceções: Custom Exceptions e Try-with-resources.

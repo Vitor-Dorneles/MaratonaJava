@@ -70,3 +70,11 @@ gradle-app.setting
 out/
 *.iml
 *.class
+
+
+# Ignorar binários e cache
+build/
+bin/
+__pycache__/
+*.class
+.idea/
