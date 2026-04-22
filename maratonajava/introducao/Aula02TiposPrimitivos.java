@@ -3,7 +3,7 @@ package maratonajava.introducao;
 public class Aula02TiposPrimitivos {
     public static void main(String[] args){
         int idade=10;
-        int idadeDoPai;
+        /*int idadeDoPai;
         long numeroGrande=10000;
         double salario=2000;
         float salarioFloat=4.5F;
@@ -11,9 +11,10 @@ public class Aula02TiposPrimitivos {
         short idadeShort=10;
         boolean verdadeiro=true;
         boolean falso=false;
-        char caractere ='M';
         char caracterNumerico = 65;
         float gremio=29.4F;
+        */
+        char caractere ='M';
         String nome= "grande texto";
 
         System.out.println("A idade é:"+idade);
